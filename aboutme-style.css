@@ -1,0 +1,19 @@
+body{
+	background-color: #292826;
+	color: white;
+	font-family: arial;
+}
+a{
+	color: red;
+}
+h1,h2{
+	color: #6582e0;
+}
+h1{
+	font-size: 55px;
+}
+strong{
+	color: yellow;
+}
+
+
