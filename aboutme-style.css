@@ -6,6 +6,9 @@ body{
 a{
 	color: red;
 }
+a:hover{
+	text-decoration: none;
+}
 h1,h2{
 	color: #6582e0;
 }
@@ -15,5 +18,7 @@ h1{
 strong{
 	color: yellow;
 }
-
+p::first-letter{
+	font-size: 150%;
+}
 
